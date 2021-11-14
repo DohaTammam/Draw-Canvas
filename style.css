@@ -1,0 +1,16 @@
+body 
+{
+    text-align: center;
+}
+canvas 
+{
+    border: 2px solid rgb(26, 44, 85);
+    margin-top: 15px;
+}
+p,button
+{
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(39, 10, 10);
+    display: inline-block;
+}
